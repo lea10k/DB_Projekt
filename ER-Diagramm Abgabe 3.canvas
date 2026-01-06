@@ -4,10 +4,10 @@
 		{"id":"1d4de85a0b844ed5","type":"file","file":"Datenbanken/Tabellen ER- Diagramm/Dokumentation Medikamentenvergabe.md","x":740,"y":-260,"width":400,"height":350},
 		{"id":"677eef2a85c2dffb","type":"file","file":"Datenbanken/Tabellen ER- Diagramm/Medikament.md","x":-320,"y":-247,"width":400,"height":274},
 		{"id":"f38ba932a65bee0e","type":"file","file":"Datenbanken/Tabellen ER- Diagramm/Allgemeine Person.md","x":-60,"y":-1081,"width":400,"height":311},
-		{"id":"78b902ec89080a63","type":"file","file":"Datenbanken/Tabellen ER- Diagramm/Bewohner.md","x":220,"y":-699,"width":400,"height":177},
-		{"id":"b67ee8e5a27bea8a","x":680,"y":-925,"width":400,"height":140,"type":"file","file":"Datenbanken/Tabellen ER- Diagramm/Pfleger.md"},
+		{"id":"78b902ec89080a63","type":"file","file":"Datenbanken/Tabellen ER- Diagramm/Bewohner.md","x":220,"y":-699,"width":400,"height":199},
+		{"id":"b67ee8e5a27bea8a","type":"file","file":"Datenbanken/Tabellen ER- Diagramm/Pfleger.md","x":680,"y":-925,"width":400,"height":140},
 		{"id":"6e2898fbc44e6806","type":"file","file":"Datenbanken/Tabellen ER- Diagramm/Angehörige.md","x":340,"y":-1279,"width":400,"height":138},
-		{"id":"e333c27a6e7f44f4","x":860,"y":-1280,"width":250,"height":121,"type":"text","text":"Ist evtl. nicht ganz so wichtig. Kann demnach, wenn Tabellen gebraucht werden auch weggelassen werden."}
+		{"id":"e333c27a6e7f44f4","type":"text","text":"Ist evtl. nicht ganz so wichtig. Kann demnach, wenn Tabellen gebraucht werden auch weggelassen werden.","x":860,"y":-1280,"width":250,"height":121}
 	],
 	"edges":[
 		{"id":"6474893772871b01","fromNode":"677eef2a85c2dffb","fromSide":"right","toNode":"362128b72db3dff0","toSide":"left"},
