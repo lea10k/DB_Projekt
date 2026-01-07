@@ -4,10 +4,14 @@
 		{"id":"1d4de85a0b844ed5","type":"file","file":"Datenbanken/Tabellen ER- Diagramm/Dokumentation Medikamentenvergabe.md","x":740,"y":-260,"width":400,"height":350},
 		{"id":"677eef2a85c2dffb","type":"file","file":"Datenbanken/Tabellen ER- Diagramm/Medikament.md","x":-320,"y":-247,"width":400,"height":274},
 		{"id":"f38ba932a65bee0e","type":"file","file":"Datenbanken/Tabellen ER- Diagramm/Allgemeine Person.md","x":-60,"y":-1081,"width":400,"height":311},
-		{"id":"78b902ec89080a63","type":"file","file":"Datenbanken/Tabellen ER- Diagramm/Bewohner.md","x":220,"y":-699,"width":400,"height":199},
+		{"id":"78b902ec89080a63","type":"file","file":"Datenbanken/Tabellen ER- Diagramm/Bewohner.md","x":220,"y":-699,"width":400,"height":279},
 		{"id":"b67ee8e5a27bea8a","type":"file","file":"Datenbanken/Tabellen ER- Diagramm/Pfleger.md","x":680,"y":-925,"width":400,"height":140},
 		{"id":"6e2898fbc44e6806","type":"file","file":"Datenbanken/Tabellen ER- Diagramm/Angehörige.md","x":340,"y":-1279,"width":400,"height":138},
-		{"id":"e333c27a6e7f44f4","type":"text","text":"Ist evtl. nicht ganz so wichtig. Kann demnach, wenn Tabellen gebraucht werden auch weggelassen werden.","x":860,"y":-1280,"width":250,"height":121}
+		{"id":"e333c27a6e7f44f4","type":"text","text":"Ist evtl. nicht ganz so wichtig. Kann demnach, wenn Tabellen gebraucht werden auch weggelassen werden.","x":860,"y":-1280,"width":250,"height":121},
+		{"id":"d38d4041057acc4d","type":"file","file":"Datenbanken/repo/Tabellen ER- Diagramm/Ärzte.md","x":-580,"y":-1020,"width":400,"height":190},
+		{"id":"964d47ce5459acb0","type":"file","file":"Datenbanken/repo/Tabellen ER- Diagramm/Hausbesuche.md","x":-580,"y":-690,"width":400,"height":270},
+		{"id":"d1179472bc66fa89","type":"file","file":"Datenbanken/repo/Tabellen ER- Diagramm/Dokumentation Hausbesuche.md","x":-1120,"y":-722,"width":400,"height":302},
+		{"id":"e0d373a89b8d1a5e","x":-154,"y":-1340,"width":250,"height":151,"type":"text","text":"Adresse sprengt evtl. Rahmen, da am besten alles in einzelne Spalten\noder neue Tabelle eingetragen werden sollte."}
 	],
 	"edges":[
 		{"id":"6474893772871b01","fromNode":"677eef2a85c2dffb","fromSide":"right","toNode":"362128b72db3dff0","toSide":"left"},
@@ -18,6 +22,11 @@
 		{"id":"a8663ec157ba2616","fromNode":"362128b72db3dff0","fromSide":"right","toNode":"1d4de85a0b844ed5","toSide":"left"},
 		{"id":"772a13fb938e6e49","fromNode":"f38ba932a65bee0e","fromSide":"right","toNode":"b67ee8e5a27bea8a","toSide":"left"},
 		{"id":"a50cc7b17f9ccfbc","fromNode":"b67ee8e5a27bea8a","fromSide":"bottom","toNode":"1d4de85a0b844ed5","toSide":"top"},
-		{"id":"21bacd1c170d370a","fromNode":"e333c27a6e7f44f4","fromSide":"left","toNode":"6e2898fbc44e6806","toSide":"right"}
+		{"id":"21bacd1c170d370a","fromNode":"e333c27a6e7f44f4","fromSide":"left","toNode":"6e2898fbc44e6806","toSide":"right"},
+		{"id":"1906b91b65d2bfc5","fromNode":"f38ba932a65bee0e","fromSide":"left","toNode":"d38d4041057acc4d","toSide":"right"},
+		{"id":"e76e12c010ac0b92","fromNode":"78b902ec89080a63","fromSide":"left","toNode":"964d47ce5459acb0","toSide":"right"},
+		{"id":"068485cc0ffe9ff7","fromNode":"d38d4041057acc4d","fromSide":"bottom","toNode":"964d47ce5459acb0","toSide":"top"},
+		{"id":"fd2d67c33d957de7","fromNode":"964d47ce5459acb0","fromSide":"left","toNode":"d1179472bc66fa89","toSide":"right"},
+		{"id":"2b1d0293cf29dee8","fromNode":"e0d373a89b8d1a5e","fromSide":"bottom","toNode":"f38ba932a65bee0e","toSide":"top"}
 	]
 }
