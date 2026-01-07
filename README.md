@@ -1,5 +1,5 @@
 ## Skripte bisher
-tabellen.sql
+tabellen.sql - noch unvollständig
 
 ## Info 
 <img width="2146" height="331" alt="grafik" src="https://github.com/user-attachments/assets/5b619336-2885-49ff-b16e-19e65a10ab55" />
