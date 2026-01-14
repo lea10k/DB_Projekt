@@ -1,6 +1,11 @@
 
-| Arzt         |
-| ------------ |
-| Artz_id      |
-| Person_id    |
-| Fachrichtung |
+| Arzt      |
+| --------- |
+| Artz_id   |
+| Titel     |
+| Vorname   |
+| Nachname  |
+| Praxis    |
+| Adresse   |
+| telefonnr |
+| E-Mail    |

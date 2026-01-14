@@ -1,9 +1,8 @@
 
 | doku_hausbesuche                                                   |
 | ------------------------------------------------------------------ |
-| hausbesuch_id                                                      |
-| hb_geplant_id                                                      |
+| ***hausbesuch_id*** FK PK                                          |
+| ***zeitpunkt*** TIMESTAMP PK                                       |
 | status CHAR (gekommen, nicht gekommen, HB abgesagt, HB verschoben) |
-| Zeitpunkt TIMESTAMP                                                |
 | Bemerkung                                                          |
 | Verordnung                                                         |
